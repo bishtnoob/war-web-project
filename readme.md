@@ -22,7 +22,7 @@ features (in Eclipse, right click the project and select *Run As* ->
 *Maven build*, type *package* into the *Goals* field, then *Run*). If you
 prefer doing stuff more old school, you can use the command line to build the
 project as well. To do so, you need to have Maven installed on your machine.
-Navigate to your project location. Then, simply type iiii
+Navigate to your project location. Then, simply type iiiitttt
 
     mvn package
 
